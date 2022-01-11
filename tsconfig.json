@@ -19,7 +19,8 @@
     "paths": {
       "components/*": ["src/components/*"],
       "containers/*": ["src/containers/*"],
-      "types/*": ["types/*"]
+      "types/*": ["types/*"],
+      "assets/*": ["src/assets/*"]
     },
     "lib": ["dom", "es2015", "es2016"]
   },
